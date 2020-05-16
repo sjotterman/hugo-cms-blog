@@ -4,9 +4,7 @@ subtitle: You can put anything here
 image: img/00100dportrait_00100_burst20180504193709646_cov-copy.jpg
 blurb:
   heading: Why Greta?
-  text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id
-    tincidunt dolor. Sed a ante finibus, pretium velit sit amet, imperdiet
-    sapien. Maecenas ultricies ultricies metus, sed volutpat quam egestas eget.
+  text: Greta is cool. This is where you would put a paragraph talking about Greta.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
