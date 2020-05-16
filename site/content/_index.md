@@ -1,7 +1,7 @@
 ---
 title: This is about Greta
 subtitle: You can put anything here
-image: /img/home-jumbotron.jpg
+image: img/00100dportrait_00100_burst20180504193709646_cov-copy.jpg
 blurb:
   heading: Why Greta?
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id
